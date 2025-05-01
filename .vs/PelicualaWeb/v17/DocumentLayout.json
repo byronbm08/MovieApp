@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\aplicaciones .net\\PelicualaWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83F3161B-CFE4-4720-8A1C-39A0B29BC091}|PelicualaWeb\\PelicualaWeb.csproj|d:\\aplicaciones .net\\pelicualaweb\\pelicualaweb\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{83F3161B-CFE4-4720-8A1C-39A0B29BC091}|PelicualaWeb\\PelicualaWeb.csproj|solutionrelative:pelicualaweb\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F3161B-CFE4-4720-8A1C-39A0B29BC091}|PelicualaWeb\\PelicualaWeb.csproj|d:\\aplicaciones .net\\pelicualaweb\\pelicualaweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83F3161B-CFE4-4720-8A1C-39A0B29BC091}|PelicualaWeb\\PelicualaWeb.csproj|solutionrelative:pelicualaweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F3161B-CFE4-4720-8A1C-39A0B29BC091}|PelicualaWeb\\PelicualaWeb.csproj|d:\\aplicaciones .net\\pelicualaweb\\pelicualaweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83F3161B-CFE4-4720-8A1C-39A0B29BC091}|PelicualaWeb\\PelicualaWeb.csproj|solutionrelative:pelicualaweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F3161B-CFE4-4720-8A1C-39A0B29BC091}|PelicualaWeb\\PelicualaWeb.csproj|d:\\aplicaciones .net\\pelicualaweb\\pelicualaweb\\views\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83F3161B-CFE4-4720-8A1C-39A0B29BC091}|PelicualaWeb\\PelicualaWeb.csproj|solutionrelative:pelicualaweb\\views\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F3161B-CFE4-4720-8A1C-39A0B29BC091}|PelicualaWeb\\PelicualaWeb.csproj|d:\\aplicaciones .net\\pelicualaweb\\pelicualaweb\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F3161B-CFE4-4720-8A1C-39A0B29BC091}|PelicualaWeb\\PelicualaWeb.csproj|solutionrelative:pelicualaweb\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F3161B-CFE4-4720-8A1C-39A0B29BC091}|PelicualaWeb\\PelicualaWeb.csproj|d:\\aplicaciones .net\\pelicualaweb\\pelicualaweb\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83F3161B-CFE4-4720-8A1C-39A0B29BC091}|PelicualaWeb\\PelicualaWeb.csproj|solutionrelative:pelicualaweb\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F3161B-CFE4-4720-8A1C-39A0B29BC091}|PelicualaWeb\\PelicualaWeb.csproj|d:\\aplicaciones .net\\pelicualaweb\\pelicualaweb\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F3161B-CFE4-4720-8A1C-39A0B29BC091}|PelicualaWeb\\PelicualaWeb.csproj|solutionrelative:pelicualaweb\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F3161B-CFE4-4720-8A1C-39A0B29BC091}|PelicualaWeb\\PelicualaWeb.csproj|d:\\aplicaciones .net\\pelicualaweb\\pelicualaweb\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83F3161B-CFE4-4720-8A1C-39A0B29BC091}|PelicualaWeb\\PelicualaWeb.csproj|solutionrelative:pelicualaweb\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\aplicaciones .net\\PelicualaWeb\\PelicualaWeb\\Views\\Movies\\Edit.cshtml",
+              "RelativeDocumentMoniker": "PelicualaWeb\\Views\\Movies\\Edit.cshtml",
+              "ToolTip": "D:\\aplicaciones .net\\PelicualaWeb\\PelicualaWeb\\Views\\Movies\\Edit.cshtml",
+              "RelativeToolTip": "PelicualaWeb\\Views\\Movies\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-01T15:32:31.737Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\aplicaciones .net\\PelicualaWeb\\PelicualaWeb\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "PelicualaWeb\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\aplicaciones .net\\PelicualaWeb\\PelicualaWeb\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "PelicualaWeb\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwBsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-01T17:47:10.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\aplicaciones .net\\PelicualaWeb\\PelicualaWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PelicualaWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\aplicaciones .net\\PelicualaWeb\\PelicualaWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PelicualaWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-01T17:36:09.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\aplicaciones .net\\PelicualaWeb\\PelicualaWeb\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PelicualaWeb\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\aplicaciones .net\\PelicualaWeb\\PelicualaWeb\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PelicualaWeb\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAwDwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-01T17:34:43.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\aplicaciones .net\\PelicualaWeb\\PelicualaWeb\\Views\\Movies\\Create.cshtml",
+              "RelativeDocumentMoniker": "PelicualaWeb\\Views\\Movies\\Create.cshtml",
+              "ToolTip": "D:\\aplicaciones .net\\PelicualaWeb\\PelicualaWeb\\Views\\Movies\\Create.cshtml",
+              "RelativeToolTip": "PelicualaWeb\\Views\\Movies\\Create.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-01T16:43:12.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "D:\\aplicaciones .net\\PelicualaWeb\\PelicualaWeb\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "PelicualaWeb\\Models\\Movie.cs",
+              "ToolTip": "D:\\aplicaciones .net\\PelicualaWeb\\PelicualaWeb\\Models\\Movie.cs",
+              "RelativeToolTip": "PelicualaWeb\\Models\\Movie.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAwwCkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T16:31:23.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "D:\\aplicaciones .net\\PelicualaWeb\\PelicualaWeb\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "PelicualaWeb\\Controllers\\MoviesController.cs",
+              "ToolTip": "D:\\aplicaciones .net\\PelicualaWeb\\PelicualaWeb\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "PelicualaWeb\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAPUAAAAAAAAAAAAAwAYBAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T15:49:04.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\aplicaciones .net\\PelicualaWeb\\PelicualaWeb\\Views\\Movies\\Index.cshtml",
+              "RelativeDocumentMoniker": "PelicualaWeb\\Views\\Movies\\Index.cshtml",
+              "ToolTip": "D:\\aplicaciones .net\\PelicualaWeb\\PelicualaWeb\\Views\\Movies\\Index.cshtml",
+              "RelativeToolTip": "PelicualaWeb\\Views\\Movies\\Index.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-01T15:29:55.772Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
